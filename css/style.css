@@ -1,0 +1,22 @@
+.page {
+  min-height: 500px;
+}
+
+#main {
+	padding-top: 20px;
+}
+
+.card {
+	padding: 10px 10px;
+}
+
+.center {
+	text-align: center;
+	margin-left:auto;
+	margin-right:auto;
+	display: block;
+}
+
+#profileImg {
+	width: 200px !important;
+}
